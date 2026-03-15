@@ -31,13 +31,8 @@ The bank's leadership team identified three critical concerns:
 ## 📊 Dashboard Preview
 
 ### Page 1 — Sales & Revenue Performance
-![Sales Dashboard](dashboard/page1_sales_revenue.png)
-
 ### Page 2 — Customer Segmentation
-![Segmentation Dashboard](dashboard/page2_customer_segmentation.png)
-
 ### Page 3 — Churn Risk Analysis
-![Churn Dashboard](dashboard/page3_churn_analysis.png)
 
 ---
 
