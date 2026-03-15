@@ -79,7 +79,6 @@ The bank's leadership team identified three critical concerns:
 
 ## 🧮 DAX Measures Built
 
-dax
 Churn Rate % = DIVIDE(SUM(BankCustomers[Exited]), COUNT(BankCustomers[CustomerId]), 0)
 
 Retention Rate = DIVIDE(CALCULATE(COUNT(BankCustomers[CustomerId]), BankCustomers[Exited] = 0), COUNT(BankCustomers[CustomerId]), 0)
