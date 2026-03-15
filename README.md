@@ -79,7 +79,7 @@ The bank's leadership team identified three critical concerns:
 
 ## 🧮 DAX Measures Built
 
-```dax
+dax
 Churn Rate % = DIVIDE(SUM(BankCustomers[Exited]), COUNT(BankCustomers[CustomerId]), 0)
 
 Retention Rate = DIVIDE(CALCULATE(COUNT(BankCustomers[CustomerId]), BankCustomers[Exited] = 0), COUNT(BankCustomers[CustomerId]), 0)
@@ -94,7 +94,11 @@ Avg Balance High Risk = CALCULATE(AVERAGE(BankCustomers[Balance]), BankCustomers
 
 ---
 
-## 🏆 Churn Risk Scoring Model
+
+
+
+
+**## Churn Risk Scoring Model**
 
 Custom rule-based scoring model built in Excel:
 
