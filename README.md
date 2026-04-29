@@ -59,7 +59,7 @@ The bank's leadership team identified three critical concerns:
 
 ### 3. Churn Analysis
 - **Overall churn rate: 20.4%**
-- **High Risk customers churn at 55%** — 2.7x the overall rate
+- **High Risk customers churn at 55%** - 2.7x the overall rate
 - **Low Risk customers churn at just 1.6%** — validating the model
 - **Germany** has the highest churn rate across all risk tiers
 - **Satisfaction Score 1** customers churn at nearly 3x the average
